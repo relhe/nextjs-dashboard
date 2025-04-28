@@ -50,6 +50,7 @@ export default function Page() {
                         height={620}
                         className="block md:hidden"
                     />
+                    <p>Test my nextjs app</p>
                 </div>
             </div>
         </main>
